@@ -1,0 +1,11 @@
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\bin\Debug\net6.0\BLClassLibrary.deps.json
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\bin\Debug\net6.0\BLClassLibrary.dll
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\bin\Debug\net6.0\BLClassLibrary.pdb
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.AssemblyInfoInputs.cache
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.AssemblyInfo.cs
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.csproj.CoreCompileInputs.cache
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.dll
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\refint\BLClassLibrary.dll
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.pdb
+D:\RashmiR\Practice\APIsimplefactoryAPI\BLClassLibrary\obj\Debug\net6.0\ref\BLClassLibrary.dll

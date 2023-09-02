@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jgsM7q/5GUTu0FL3goYt185t9r4g6QWOCn4197uC5//VgBLIyL+sfZLy2AHL1MvUmtjtJi6LJw0k6w3JutAwA==",
+  "success": true,
+  "projectFilePath": "D:\\RashmiR\\Practice\\APIsimplefactoryAPI\\APIsimplefactoryAPI\\APIsimplefactoryAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OASYS-43\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\OASYS-43\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\OASYS-43\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\OASYS-43\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\OASYS-43\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\OASYS-43\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
